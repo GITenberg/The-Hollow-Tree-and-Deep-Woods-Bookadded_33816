@@ -1,0 +1,35 @@
+_repo: The-Hollow-Tree-and-Deep-Woods-Bookadded_33816
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Condé, J. M.
+    alias: Conde, J. M.
+    gutenberg_agent_id: '26466'
+    url: http://www.gutenberg.org/2009/agents/26466
+covers:
+- cover_type: archival
+  image_path: 33816-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+description: ''
+gutenberg_issued: '2010-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+title: "The Hollow Tree and Deep Woods Book\r\nbeing a new edition in one volume of\
+  \ \"The Hollow Tree\" and \"In The Deep Woods\" with several new stories and pictures\
+  \ added"
+url: http://www.gutenberg.org/ebooks/33816
